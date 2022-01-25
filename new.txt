@@ -1,0 +1,4 @@
+	name:Gleb
+	age:37
+	animals:2
+	zp:2000
