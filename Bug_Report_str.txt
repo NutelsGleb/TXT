@@ -1,0 +1,11 @@
+ID
+Summary
+Preconditions
+Steps to Reproduce
+Actual Result
+Expected Result
+Project
+Build number
+Priority
+Severity
+Status
