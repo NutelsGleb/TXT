@@ -1,0 +1,5 @@
+favorite_move:5element
+favorite_series:love,death+robots
+favorite_eat:pelmeni
+favorite_season:winter
+favorite_country:Germany

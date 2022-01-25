@@ -1,0 +1,5 @@
+	sql: true
+	bash: true
+	git: true
+	python: true
+	C++: false
